@@ -3,7 +3,7 @@
 ## Exploring FDA Adverse Events: Analyzing CAERs Reports from 2019 to Present with Python
 
 ## Executive Summary
-This project focuses on delving into adverse events reported in the CAERS report to understand their relationship withvarious recalls. The analysis aims uncover previously reported harmful products and what populations were affected.
+This project focuses on delving into adverse events within the CAERS report to understand their relationship with various recalls. The analysis aims to uncover previously reported harmful products and what populations were affected.
 
 ## Tech Stack
 VSCode, Python, and Canva
